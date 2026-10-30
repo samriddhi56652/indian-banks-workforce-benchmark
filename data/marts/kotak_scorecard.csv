@@ -1,0 +1,15 @@
+metric,better,latest_year,kotak_value,peer_median,gap_to_peer_median,rank_in_year,n_banks,position,first_year,first_advantage,latest_advantage,trend,source_file,page,caveat
+female_wages_pct,higher,FY2025-26,20.9,20.0,0.8999999999999986,3,6,ahead of peers,FY2023-24,2.0,0.8999999999999986,worsening vs peers,KOTAK_FY26_BRSR.pdf,404,
+hs_training_pct,higher,FY2025-26,80.4,91.45,-11.049999999999997,4,6,behind peers,FY2023-24,-51.71,-11.049999999999997,improving vs peers,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees)
+parental_retention_female,higher,FY2025-26,64.2,77.95,-13.75,6,6,behind peers,FY2023-24,-9.200000000000003,-13.75,worsening vs peers,KOTAK_FY26_BRSR.pdf,394,
+parental_retention_total,higher,FY2025-26,67.9,79.2,-11.299999999999997,5,6,behind peers,FY2023-24,-11.799999999999997,-11.299999999999997,improving vs peers,KOTAK_FY26_BRSR.pdf,394,
+parental_return_female,higher,FY2025-26,99.1,99.8,-0.7000000000000028,4,6,behind peers,FY2023-24,-0.269999999999996,-0.7000000000000028,worsening vs peers,KOTAK_FY26_BRSR.pdf,394,
+review_pct,higher,FY2025-26,87.3,92.0,-4.700000000000003,4,6,behind peers,FY2023-24,-1.0999999999999943,-4.700000000000003,worsening vs peers,KOTAK_FY26_BRSR.pdf,395,
+skill_training_pct,higher,FY2025-26,90.9,99.4,-8.5,5,6,behind peers,FY2023-24,-3.489999999999995,-8.5,worsening vs peers,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees)
+turnover_female,lower,FY2025-26,33.1,24.1,9.0,4,6,behind peers,FY2023-24,-10.900000000000002,-9.0,improving vs peers,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)"
+turnover_male,lower,FY2025-26,32.2,22.8,9.400000000000002,4,6,behind peers,FY2023-24,-10.900000000000002,-9.400000000000002,improving vs peers,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)"
+turnover_total,lower,FY2025-26,32.5,23.1,9.399999999999999,4,6,behind peers,FY2023-24,-10.8,-9.399999999999999,improving vs peers,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)"
+wellbeing_spend_pct_revenue,higher,FY2025-26,0.2,0.22,-0.01999999999999999,4,6,behind peers,FY2023-24,-0.009999999999999981,-0.01999999999999999,worsening vs peers,KOTAK_FY26_BRSR.pdf,393,
+women_in_kmp_pct,higher,FY2025-26,16.67,0.0,16.67,1,5,ahead of peers,FY2023-24,40.0,16.67,worsening vs peers,KOTAK_FY26_BRSR.pdf,376,
+women_on_board_pct,higher,FY2025-26,16.67,22.22,-5.549999999999997,4,6,behind peers,FY2023-24,-1.509999999999998,-5.549999999999997,worsening vs peers,KOTAK_FY26_BRSR.pdf,376,
+women_share_permanent,higher,FY2025-26,27.35,26.61,0.740000000000002,3,6,ahead of peers,FY2023-24,1.5300000000000011,0.740000000000002,worsening vs peers,KOTAK_FY26_BRSR.pdf,375,

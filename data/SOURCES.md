@@ -2,8 +2,29 @@
 
 All workforce figures in this project come from each bank's Business Responsibility and Sustainability Report (BRSR), as published by the bank. Raw PDFs are not stored in this repository; download them from the URLs below into `data\raw\brsr\`.
 
-File naming: `<bank_code>_FY<yy>_BRSR.pdf` (e.g. `KOTAK_FY25_BRSR.pdf`).
+File naming: `<BANK>_FY<yy>_BRSR.pdf` (e.g. `KOTAK_FY26_BRSR.pdf` = FY2025-26), even when the file is a full annual report that contains the BRSR.
 
-| Bank | FY | Document | URL | Downloaded on | File name | Pages: employee tables (Section A) | Pages: Principle 3 | Notes |
-|---|---|---|---|---|---|---|---|---|
-| | | | | | | | | |
+Page numbers are PDF page indexes (1-based), not the numbers printed on the pages. Exact pages per field are in `data\page_index.csv`, produced by `python src\locate_tables.py`. "FY stated" is the reporting year the BRSR itself states in Section A ("Financial year for which reporting is being done").
+
+**Scope:** 6 private-sector banks × FY2023-24, FY2024-25, FY2025-26 = 18 reports. All 18 available.
+
+| Bank | FY | Document | URL | Downloaded | File name | Size (bytes) | PDF pages | FY stated | Section A (Q20–22) | Principle 3 (Q1, Q5, Q8, Q9) | Principle 5 (Q3b, Q6) | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Kotak Mahindra Bank | FY2025-26 | Integrated Annual Report 2025-26 (BRSR inside) | https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2026/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY26.pdf | 2026-10-30 | KOTAK_FY26_BRSR.pdf | 9,262,663 | 447 | 2025-26 | 375–376 | 393–395 | 404 | ESG Data Tables (new joiners, turnover definition) pp. 434–438 |
+| Kotak Mahindra Bank | FY2024-25 | Integrated Annual Report 2024-25 (BRSR inside) | https://www.kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/Annual-Reports/FY-2025/kotak-mahindra-bank/Kotak-Mahindra-Bank-Limited-FY25.pdf | 2026-10-30 | KOTAK_FY25_BRSR.pdf | 13,956,731 | 522 | 2024-25 | 455–456 | 472–474 | 483 | |
+| Kotak Mahindra Bank | FY2023-24 | Annual report (BRSR inside) | _URL to add_ (annual-reports page, FY-2024 tab) | 2026-10-30 | KOTAK_FY24_BRSR.pdf | 19,882,058 | 450 | 2023-24 | 387–388 | 397–399 | 406 | |
+| HDFC Bank | FY2025-26 | Integrated Report 2025-26 (BRSR inside) | https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2025-26/reports/HDFC_Bank_IR26.pdf | 2026-10-30 | HDFC_FY26_BRSR.pdf | 18,608,098 | 629 | 2025-26 | 558 | 574–576 | 585 | Headcount is Q25 in HDFC's numbering; % shown as whole numbers |
+| HDFC Bank | FY2024-25 | Annual Report 2024-25 (BRSR inside) | https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2024-25/HDFC_Bank_Annual_Report_2024_25-310202.pdf | 2026-10-30 | HDFC_FY25_BRSR.pdf | 9,438,688 | 590 | 2024-25 | 525–526 | 541–543 | 552 | |
+| HDFC Bank | FY2023-24 | Integrated Annual Report 2023-24 (BRSR inside) | https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/annual-reports/2023-24/integrated-annual-report-2023-24.pdf | 2026-10-30 | HDFC_FY24_BRSR.pdf | 15,692,637 | 585 | 2023-24 | 526 | 542–544 | 552 | |
+| ICICI Bank | FY2025-26 | BRSR (standalone) | https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2026/icici-bank-brsr-2026.pdf | 2026-10-30 | ICICI_FY26_BRSR.pdf | 1,247,974 | 59 | 2025-26 | 2–3 | 16–19 | 26–27 | |
+| ICICI Bank | FY2024-25 | BRSR (standalone) | https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2025/icici-bank-brsr-2025.pdf | 2026-10-30 | ICICI_FY25_BRSR.pdf | 971,722 | 50 | 2024-25 | 2–3 | 16–19 | 26–27 | |
+| ICICI Bank | FY2023-24 | BRSR (standalone) | https://www.icici.bank.in/content/dam/icicibank/managed-assets/docs/investor/annual-reports/2024/icici-bank-brsr-2024.pdf | 2026-10-30 | ICICI_FY24_BRSR.pdf | 854,025 | 50 | 2023-24 | 2–3 | 16–20 | 26–28 | |
+| Axis Bank | FY2025-26 | BRSR (standalone) | https://www.axis.bank.in/docs/default-source/business-responsibility-reports/business-responsibility-sustainability-report-for-the-year-2025-26.pdf | 2026-10-30 | AXIS_FY26_BRSR.pdf | 927,927 | 46 | 2025-26 | 2–3 | 20–22 | 30 | |
+| Axis Bank | FY2024-25 | BRSR (standalone) | _URL to add_ (business-responsibility-report page) | 2026-10-30 | AXIS_FY25_BRSR.pdf | 872,529 | 47 | 2024-25 | 2–3 | 18–21 | 29–30 | |
+| Axis Bank | FY2023-24 | BRSR (standalone) | _URL to add_ (business-responsibility-report page) | 2026-10-30 | AXIS_FY24_BRSR.pdf | 552,533 | 41 | 2023-24 | 3 | 16–19 | 26 | |
+| IndusInd Bank | FY2025-26 | Annual Report 2025-26 (BRSR inside) | https://www.indusind.bank.in/content/dam/indusind-corporate/investor-resource/latest-annual-report/annual-report-2025-2026.pdf | 2026-10-30 | INDUSIND_FY26_BRSR.pdf | 9,220,468 | 424 | 2025-26 | 235–236 | 244–247 | 255–256 | Downloaded with curl; size matches server |
+| IndusInd Bank | FY2024-25 | Annual Report 2024-25 (BRSR inside) | https://www.indusind.bank.in/content/dam/indusind-corporate/investor-resource/latest-annual-report/annual_report_2024-25.pdf | 2026-10-30 | INDUSIND_FY25_BRSR.pdf | 10,448,473 | 416 | 2024-25 | 218 | 227–230 | 236–237 | Downloaded with curl; size matches server |
+| IndusInd Bank | FY2023-24 | Annual Report 2023-24 (BRSR inside) | https://www.indusind.bank.in/content/dam/indusind-corporate/investor-resource/latest-annual-report/annual_report_2023-24.pdf | 2026-10-30 | INDUSIND_FY24_BRSR.pdf | 18,927,355 | 400 | 2023-24 | 223–224 | 232–234 | 239–240 | Downloaded with curl; size matches server |
+| YES Bank | FY2025-26 | Annual report (BRSR inside) | _URL to add_ | 2026-10-30 | YES_FY26_BRSR.pdf | 14,499,657 | 310 | 2025-26 | 188–189 | 197–198 | 203 | |
+| YES Bank | FY2024-25 | Integrated Annual Report 2024-25, as filed with BSE on 26-07-2025 (cover letter YBL/CS/2025-26/79) | https://www.bseindia.com/xml-data/corpfiling/attachhis/7ed39919-ccd5-447b-a1de-62ed7c32e8c7.pdf | 2026-10-30 | YES_FY25_BRSR.pdf | 11,266,489 | 529 | 2024-25 | 297–298 | 314–317 | 325–326 | Bank website serves a bot check instead of the PDF, so the BSE filing is used: the same report YES Bank linked in its exchange letter of 26-07-2025 |
+| YES Bank | FY2023-24 | Integrated Annual Report 2023-24, as filed with BSE on 23-07-2024 (cover letter YBL/CS/2024-25/71) | https://www.bseindia.com/xml-data/corpfiling/attachhis/77d2730a-4ae8-409d-8233-e26a4763bb78.pdf | 2026-10-30 | YES_FY24_BRSR.pdf | 10,703,697 | 571 | 2023-24 | 332–333 | 344–347 | 353–354 | BSE filing (see above) |

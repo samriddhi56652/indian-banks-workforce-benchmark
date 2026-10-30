@@ -1,0 +1,253 @@
+bank,fiscal_year,metric,value,unit,better,source_file,page,caveat,restated
+AXIS,FY2023-24,female_wages_pct,20.9,%,higher,AXIS_FY25_BRSR.pdf,29,,False
+HDFC,FY2023-24,female_wages_pct,19.0,%,higher,HDFC_FY25_BRSR.pdf,552,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,female_wages_pct,25.0,%,higher,ICICI_FY25_BRSR.pdf,26,,False
+INDUSIND,FY2023-24,female_wages_pct,16.15,%,higher,INDUSIND_FY25_BRSR.pdf,236,,False
+KOTAK,FY2023-24,female_wages_pct,21.0,%,higher,KOTAK_FY25_BRSR.pdf,483,,False
+YES,FY2023-24,female_wages_pct,16.61,%,higher,YES_FY25_BRSR.pdf,325,,False
+AXIS,FY2024-25,female_wages_pct,21.85,%,higher,AXIS_FY26_BRSR.pdf,30,,False
+HDFC,FY2024-25,female_wages_pct,20.0,%,higher,HDFC_FY26_BRSR.pdf,585,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,female_wages_pct,25.0,%,higher,ICICI_FY26_BRSR.pdf,26,,False
+INDUSIND,FY2024-25,female_wages_pct,15.9,%,higher,INDUSIND_FY26_BRSR.pdf,255,,False
+KOTAK,FY2024-25,female_wages_pct,20.8,%,higher,KOTAK_FY26_BRSR.pdf,404,,False
+YES,FY2024-25,female_wages_pct,17.57,%,higher,YES_FY26_BRSR.pdf,203,,False
+AXIS,FY2025-26,female_wages_pct,23.17,%,higher,AXIS_FY26_BRSR.pdf,30,,False
+HDFC,FY2025-26,female_wages_pct,20.0,%,higher,HDFC_FY26_BRSR.pdf,585,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,female_wages_pct,26.0,%,higher,ICICI_FY26_BRSR.pdf,26,,False
+INDUSIND,FY2025-26,female_wages_pct,16.44,%,higher,INDUSIND_FY26_BRSR.pdf,255,,False
+KOTAK,FY2025-26,female_wages_pct,20.9,%,higher,KOTAK_FY26_BRSR.pdf,404,,False
+YES,FY2025-26,female_wages_pct,18.79,%,higher,YES_FY26_BRSR.pdf,203,,False
+AXIS,FY2023-24,hs_training_pct,100.0,%,higher,AXIS_FY25_BRSR.pdf,21,,False
+HDFC,FY2023-24,hs_training_pct,100.0,%,higher,HDFC_FY25_BRSR.pdf,543,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,hs_training_pct,99.62,%,higher,ICICI_FY25_BRSR.pdf,19,,False
+INDUSIND,FY2023-24,hs_training_pct,35.51,%,higher,INDUSIND_FY25_BRSR.pdf,229,,False
+KOTAK,FY2023-24,hs_training_pct,48.1,%,higher,KOTAK_FY25_BRSR.pdf,474,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2023-24,hs_training_pct,,%,higher,YES_FY25_BRSR.pdf,316,,False
+AXIS,FY2024-25,hs_training_pct,90.0,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2024-25,hs_training_pct,100.0,%,higher,HDFC_FY26_BRSR.pdf,576,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,hs_training_pct,99.5,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2024-25,hs_training_pct,32.919,%,higher,INDUSIND_FY26_BRSR.pdf,247,,False
+KOTAK,FY2024-25,hs_training_pct,76.8,%,higher,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2024-25,hs_training_pct,10.5,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2025-26,hs_training_pct,91.45,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2025-26,hs_training_pct,100.0,%,higher,HDFC_FY26_BRSR.pdf,576,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,hs_training_pct,98.3,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2025-26,hs_training_pct,46.938,%,higher,INDUSIND_FY26_BRSR.pdf,247,,False
+KOTAK,FY2025-26,hs_training_pct,80.4,%,higher,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2025-26,hs_training_pct,69.72,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2023-24,parental_retention_female,51.77,%,higher,AXIS_FY24_BRSR.pdf,17,,False
+HDFC,FY2023-24,parental_retention_female,64.0,%,higher,HDFC_FY24_BRSR.pdf,543,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,parental_retention_female,70.1,%,higher,ICICI_FY24_BRSR.pdf,18,,False
+INDUSIND,FY2023-24,parental_retention_female,75.6,%,higher,INDUSIND_FY24_BRSR.pdf,233,,False
+KOTAK,FY2023-24,parental_retention_female,54.8,%,higher,KOTAK_FY24_BRSR.pdf,398,,False
+YES,FY2023-24,parental_retention_female,55.65,%,higher,YES_FY24_BRSR.pdf,346,,False
+AXIS,FY2024-25,parental_retention_female,76.0,%,higher,AXIS_FY25_BRSR.pdf,20,,False
+HDFC,FY2024-25,parental_retention_female,71.4,%,higher,HDFC_FY25_BRSR.pdf,542,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,parental_retention_female,74.8,%,higher,ICICI_FY25_BRSR.pdf,17,,False
+INDUSIND,FY2024-25,parental_retention_female,73.36,%,higher,INDUSIND_FY25_BRSR.pdf,228,,False
+KOTAK,FY2024-25,parental_retention_female,63.7,%,higher,KOTAK_FY25_BRSR.pdf,473,,False
+YES,FY2024-25,parental_retention_female,63.4,%,higher,YES_FY25_BRSR.pdf,315,,False
+AXIS,FY2025-26,parental_retention_female,82.06,%,higher,AXIS_FY26_BRSR.pdf,21,,False
+HDFC,FY2025-26,parental_retention_female,72.7,%,higher,HDFC_FY26_BRSR.pdf,575,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,parental_retention_female,77.95,%,higher,ICICI_FY26_BRSR.pdf,17,,False
+INDUSIND,FY2025-26,parental_retention_female,80.91,%,higher,INDUSIND_FY26_BRSR.pdf,245,,False
+KOTAK,FY2025-26,parental_retention_female,64.2,%,higher,KOTAK_FY26_BRSR.pdf,394,,False
+YES,FY2025-26,parental_retention_female,65.1,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2023-24,parental_retention_total,57.4,%,higher,AXIS_FY24_BRSR.pdf,17,,False
+HDFC,FY2023-24,parental_retention_total,73.2,%,higher,HDFC_FY24_BRSR.pdf,543,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,parental_retention_total,70.1,%,higher,ICICI_FY24_BRSR.pdf,18,,False
+INDUSIND,FY2023-24,parental_retention_total,83.09,%,higher,INDUSIND_FY24_BRSR.pdf,233,,False
+KOTAK,FY2023-24,parental_retention_total,58.3,%,higher,KOTAK_FY24_BRSR.pdf,398,,False
+YES,FY2023-24,parental_retention_total,60.63,%,higher,YES_FY24_BRSR.pdf,346,,False
+AXIS,FY2024-25,parental_retention_total,78.0,%,higher,AXIS_FY25_BRSR.pdf,20,,False
+HDFC,FY2024-25,parental_retention_total,76.5,%,higher,HDFC_FY25_BRSR.pdf,542,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,parental_retention_total,74.8,%,higher,ICICI_FY25_BRSR.pdf,17,,False
+INDUSIND,FY2024-25,parental_retention_total,81.06,%,higher,INDUSIND_FY25_BRSR.pdf,228,,False
+KOTAK,FY2024-25,parental_retention_total,68.6,%,higher,KOTAK_FY25_BRSR.pdf,473,,False
+YES,FY2024-25,parental_retention_total,66.28,%,higher,YES_FY25_BRSR.pdf,315,,False
+AXIS,FY2025-26,parental_retention_total,82.69,%,higher,AXIS_FY26_BRSR.pdf,21,,False
+HDFC,FY2025-26,parental_retention_total,79.2,%,higher,HDFC_FY26_BRSR.pdf,575,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,parental_retention_total,77.95,%,higher,ICICI_FY26_BRSR.pdf,17,,False
+INDUSIND,FY2025-26,parental_retention_total,85.16,%,higher,INDUSIND_FY26_BRSR.pdf,245,,False
+KOTAK,FY2025-26,parental_retention_total,67.9,%,higher,KOTAK_FY26_BRSR.pdf,394,,False
+YES,FY2025-26,parental_retention_total,67.0,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2023-24,parental_return_female,99.85,%,higher,AXIS_FY24_BRSR.pdf,17,,False
+HDFC,FY2023-24,parental_return_female,97.5,%,higher,HDFC_FY24_BRSR.pdf,543,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,parental_return_female,99.7,%,higher,ICICI_FY24_BRSR.pdf,18,,False
+INDUSIND,FY2023-24,parental_return_female,98.41,%,higher,INDUSIND_FY24_BRSR.pdf,233,,False
+KOTAK,FY2023-24,parental_return_female,99.4,%,higher,KOTAK_FY24_BRSR.pdf,398,,False
+YES,FY2023-24,parental_return_female,99.67,%,higher,YES_FY24_BRSR.pdf,346,,False
+AXIS,FY2024-25,parental_return_female,99.7,%,higher,AXIS_FY25_BRSR.pdf,20,,False
+HDFC,FY2024-25,parental_return_female,97.3,%,higher,HDFC_FY25_BRSR.pdf,542,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,parental_return_female,99.9,%,higher,ICICI_FY25_BRSR.pdf,17,,False
+INDUSIND,FY2024-25,parental_return_female,98.47,%,higher,INDUSIND_FY25_BRSR.pdf,228,,False
+KOTAK,FY2024-25,parental_return_female,99.7,%,higher,KOTAK_FY25_BRSR.pdf,473,,False
+YES,FY2024-25,parental_return_female,99.4,%,higher,YES_FY25_BRSR.pdf,315,,False
+AXIS,FY2025-26,parental_return_female,99.8,%,higher,AXIS_FY26_BRSR.pdf,21,,False
+HDFC,FY2025-26,parental_return_female,96.5,%,higher,HDFC_FY26_BRSR.pdf,575,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,parental_return_female,99.96,%,higher,ICICI_FY26_BRSR.pdf,17,,False
+INDUSIND,FY2025-26,parental_return_female,98.23,%,higher,INDUSIND_FY26_BRSR.pdf,245,,False
+KOTAK,FY2025-26,parental_return_female,99.1,%,higher,KOTAK_FY26_BRSR.pdf,394,,False
+YES,FY2025-26,parental_return_female,100.0,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2023-24,review_pct,66.0,%,higher,AXIS_FY25_BRSR.pdf,21,,False
+HDFC,FY2023-24,review_pct,85.0,%,higher,HDFC_FY25_BRSR.pdf,544,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,review_pct,100.0,%,higher,ICICI_FY25_BRSR.pdf,19,,False
+INDUSIND,FY2023-24,review_pct,48.71,%,higher,INDUSIND_FY25_BRSR.pdf,230,,False
+KOTAK,FY2023-24,review_pct,83.9,%,higher,KOTAK_FY25_BRSR.pdf,474,,False
+YES,FY2023-24,review_pct,100.0,%,higher,YES_FY25_BRSR.pdf,317,Method amended in FY26 report (includes KMPs); FY2024-25 restated,False
+AXIS,FY2024-25,review_pct,93.0,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2024-25,review_pct,87.0,%,higher,HDFC_FY26_BRSR.pdf,577,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,review_pct,100.0,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2024-25,review_pct,78.285,%,higher,INDUSIND_FY26_BRSR.pdf,247,,True
+KOTAK,FY2024-25,review_pct,88.6,%,higher,KOTAK_FY26_BRSR.pdf,395,,False
+YES,FY2024-25,review_pct,84.32,%,higher,YES_FY26_BRSR.pdf,198,Method amended in FY26 report (includes KMPs); FY2024-25 restated,True
+AXIS,FY2025-26,review_pct,96.8,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2025-26,review_pct,92.0,%,higher,HDFC_FY26_BRSR.pdf,577,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,review_pct,100.0,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2025-26,review_pct,84.707,%,higher,INDUSIND_FY26_BRSR.pdf,247,,False
+KOTAK,FY2025-26,review_pct,87.3,%,higher,KOTAK_FY26_BRSR.pdf,395,,False
+YES,FY2025-26,review_pct,81.96,%,higher,YES_FY26_BRSR.pdf,198,Method amended in FY26 report (includes KMPs); FY2024-25 restated,False
+AXIS,FY2023-24,skill_training_pct,,%,higher,AXIS_FY25_BRSR.pdf,21,,False
+HDFC,FY2023-24,skill_training_pct,97.0,%,higher,HDFC_FY25_BRSR.pdf,543,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,skill_training_pct,97.38,%,higher,ICICI_FY25_BRSR.pdf,19,,False
+INDUSIND,FY2023-24,skill_training_pct,70.55,%,higher,INDUSIND_FY25_BRSR.pdf,229,,False
+KOTAK,FY2023-24,skill_training_pct,93.7,%,higher,KOTAK_FY25_BRSR.pdf,474,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2023-24,skill_training_pct,99.35,%,higher,YES_FY25_BRSR.pdf,316,,False
+AXIS,FY2024-25,skill_training_pct,99.7,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2024-25,skill_training_pct,98.0,%,higher,HDFC_FY26_BRSR.pdf,576,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,skill_training_pct,96.6,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2024-25,skill_training_pct,84.905,%,higher,INDUSIND_FY26_BRSR.pdf,247,,False
+KOTAK,FY2024-25,skill_training_pct,94.9,%,higher,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2024-25,skill_training_pct,98.91,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2025-26,skill_training_pct,99.59,%,higher,AXIS_FY26_BRSR.pdf,22,,False
+HDFC,FY2025-26,skill_training_pct,99.6,%,higher,HDFC_FY26_BRSR.pdf,576,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,skill_training_pct,99.4,%,higher,ICICI_FY26_BRSR.pdf,19,,False
+INDUSIND,FY2025-26,skill_training_pct,78.751,%,higher,INDUSIND_FY26_BRSR.pdf,247,,False
+KOTAK,FY2025-26,skill_training_pct,90.9,%,higher,KOTAK_FY26_BRSR.pdf,395,Base = all employees incl. fixed-term (other banks: permanent employees),False
+YES,FY2025-26,skill_training_pct,98.4,%,higher,YES_FY26_BRSR.pdf,198,,False
+AXIS,FY2023-24,turnover_female,28.8,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2023-24,turnover_female,28.2,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2023-24,turnover_female,26.7,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2023-24,turnover_female,53.82,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2023-24,turnover_female,39.7,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2023-24,turnover_female,40.6,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2024-25,turnover_female,25.3,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2024-25,turnover_female,23.7,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2024-25,turnover_female,19.3,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2024-25,turnover_female,53.74,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2024-25,turnover_female,32.1,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2024-25,turnover_female,37.9,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2025-26,turnover_female,23.53,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2025-26,turnover_female,24.1,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2025-26,turnover_female,16.8,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2025-26,turnover_female,48.34,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",False
+KOTAK,FY2025-26,turnover_female,33.1,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2025-26,turnover_female,36.1,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2023-24,turnover_male,28.7,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2023-24,turnover_male,26.5,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2023-24,turnover_male,23.5,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2023-24,turnover_male,43.23,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2023-24,turnover_male,39.6,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2023-24,turnover_male,37.5,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2024-25,turnover_male,25.6,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2024-25,turnover_male,22.2,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2024-25,turnover_male,17.4,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2024-25,turnover_male,43.94,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2024-25,turnover_male,33.8,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2024-25,turnover_male,34.7,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2025-26,turnover_male,21.88,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2025-26,turnover_male,22.8,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2025-26,turnover_male,15.0,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2025-26,turnover_male,37.72,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",False
+KOTAK,FY2025-26,turnover_male,32.2,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2025-26,turnover_male,32.4,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2023-24,turnover_total,28.8,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2023-24,turnover_total,26.9,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2023-24,turnover_total,24.5,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2023-24,turnover_total,45.3,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2023-24,turnover_total,39.6,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2023-24,turnover_total,38.2,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2024-25,turnover_total,25.5,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2024-25,turnover_total,22.6,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2024-25,turnover_total,18.0,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2024-25,turnover_total,45.89,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",True
+KOTAK,FY2024-25,turnover_total,33.3,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2024-25,turnover_total,35.5,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2025-26,turnover_total,22.36,%,lower,AXIS_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+HDFC,FY2025-26,turnover_total,23.1,%,lower,HDFC_FY26_BRSR.pdf,558,Calculation method not stated in the report; HDFC prints % as whole numbers,False
+ICICI,FY2025-26,turnover_total,15.6,%,lower,ICICI_FY26_BRSR.pdf,3,Calculation method not stated in the report,False
+INDUSIND,FY2025-26,turnover_total,39.83,%,lower,INDUSIND_FY26_BRSR.pdf,236,"Method changed in FY26 report; all years taken from FY26 report (earlier reports gave gender shares of the total, not gender rates)",False
+KOTAK,FY2025-26,turnover_total,32.5,%,lower,KOTAK_FY26_BRSR.pdf,376,"Leavers / average of opening and closing headcount, per BRSR guidance (FY26 report p. 436)",False
+YES,FY2025-26,turnover_total,33.3,%,lower,YES_FY26_BRSR.pdf,189,Calculation method not stated in the report,False
+AXIS,FY2023-24,wellbeing_spend_pct_revenue,0.14,%,higher,AXIS_FY25_BRSR.pdf,19,,False
+HDFC,FY2023-24,wellbeing_spend_pct_revenue,0.22,%,higher,HDFC_FY25_BRSR.pdf,541,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,wellbeing_spend_pct_revenue,0.3,%,higher,ICICI_FY25_BRSR.pdf,16,,False
+INDUSIND,FY2023-24,wellbeing_spend_pct_revenue,0.13,%,higher,INDUSIND_FY25_BRSR.pdf,228,,False
+KOTAK,FY2023-24,wellbeing_spend_pct_revenue,0.2,%,higher,KOTAK_FY25_BRSR.pdf,472,,False
+YES,FY2023-24,wellbeing_spend_pct_revenue,0.21,%,higher,YES_FY25_BRSR.pdf,314,,False
+AXIS,FY2024-25,wellbeing_spend_pct_revenue,0.19,%,higher,AXIS_FY26_BRSR.pdf,20,,False
+HDFC,FY2024-25,wellbeing_spend_pct_revenue,0.21,%,higher,HDFC_FY26_BRSR.pdf,574,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,wellbeing_spend_pct_revenue,0.23,%,higher,ICICI_FY26_BRSR.pdf,16,,False
+INDUSIND,FY2024-25,wellbeing_spend_pct_revenue,0.14,%,higher,INDUSIND_FY26_BRSR.pdf,245,,False
+KOTAK,FY2024-25,wellbeing_spend_pct_revenue,0.2,%,higher,KOTAK_FY26_BRSR.pdf,393,,False
+YES,FY2024-25,wellbeing_spend_pct_revenue,0.22,%,higher,YES_FY26_BRSR.pdf,197,,False
+AXIS,FY2025-26,wellbeing_spend_pct_revenue,0.18,%,higher,AXIS_FY26_BRSR.pdf,20,,False
+HDFC,FY2025-26,wellbeing_spend_pct_revenue,0.22,%,higher,HDFC_FY26_BRSR.pdf,574,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,wellbeing_spend_pct_revenue,0.23,%,higher,ICICI_FY26_BRSR.pdf,16,,False
+INDUSIND,FY2025-26,wellbeing_spend_pct_revenue,0.16,%,higher,INDUSIND_FY26_BRSR.pdf,245,,False
+KOTAK,FY2025-26,wellbeing_spend_pct_revenue,0.2,%,higher,KOTAK_FY26_BRSR.pdf,393,,False
+YES,FY2025-26,wellbeing_spend_pct_revenue,0.26,%,higher,YES_FY26_BRSR.pdf,197,,False
+AXIS,FY2023-24,women_in_kmp_pct,0.0,%,higher,AXIS_FY24_BRSR.pdf,3,,False
+HDFC,FY2023-24,women_in_kmp_pct,0.0,%,higher,HDFC_FY24_BRSR.pdf,526,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,women_in_kmp_pct,16.67,%,higher,ICICI_FY24_BRSR.pdf,3,,False
+INDUSIND,FY2023-24,women_in_kmp_pct,0.0,%,higher,INDUSIND_FY24_BRSR.pdf,223,,False
+KOTAK,FY2023-24,women_in_kmp_pct,40.0,%,higher,KOTAK_FY24_BRSR.pdf,387,,False
+YES,FY2023-24,women_in_kmp_pct,0.0,%,higher,YES_FY24_BRSR.pdf,333,,False
+AXIS,FY2024-25,women_in_kmp_pct,0.0,%,higher,AXIS_FY25_BRSR.pdf,3,,False
+HDFC,FY2024-25,women_in_kmp_pct,0.0,%,higher,HDFC_FY25_BRSR.pdf,526,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,women_in_kmp_pct,16.67,%,higher,ICICI_FY25_BRSR.pdf,3,,False
+INDUSIND,FY2024-25,women_in_kmp_pct,0.0,%,higher,INDUSIND_FY25_BRSR.pdf,218,,False
+KOTAK,FY2024-25,women_in_kmp_pct,40.0,%,higher,KOTAK_FY25_BRSR.pdf,456,,False
+YES,FY2024-25,women_in_kmp_pct,0.0,%,higher,YES_FY25_BRSR.pdf,298,,False
+AXIS,FY2025-26,women_in_kmp_pct,,%,higher,AXIS_FY26_BRSR.pdf,3,,False
+HDFC,FY2025-26,women_in_kmp_pct,0.0,%,higher,HDFC_FY26_BRSR.pdf,558,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,women_in_kmp_pct,16.67,%,higher,ICICI_FY26_BRSR.pdf,3,,False
+INDUSIND,FY2025-26,women_in_kmp_pct,0.0,%,higher,INDUSIND_FY26_BRSR.pdf,235,,False
+KOTAK,FY2025-26,women_in_kmp_pct,16.67,%,higher,KOTAK_FY26_BRSR.pdf,376,,False
+YES,FY2025-26,women_in_kmp_pct,0.0,%,higher,YES_FY26_BRSR.pdf,189,,False
+AXIS,FY2023-24,women_on_board_pct,15.38,%,higher,AXIS_FY24_BRSR.pdf,3,,False
+HDFC,FY2023-24,women_on_board_pct,25.0,%,higher,HDFC_FY24_BRSR.pdf,526,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,women_on_board_pct,15.38,%,higher,ICICI_FY24_BRSR.pdf,3,,False
+INDUSIND,FY2023-24,women_on_board_pct,18.18,%,higher,INDUSIND_FY24_BRSR.pdf,223,,False
+KOTAK,FY2023-24,women_on_board_pct,16.67,%,higher,KOTAK_FY24_BRSR.pdf,387,,False
+YES,FY2023-24,women_on_board_pct,23.08,%,higher,YES_FY24_BRSR.pdf,333,,False
+AXIS,FY2024-25,women_on_board_pct,15.38,%,higher,AXIS_FY25_BRSR.pdf,3,,False
+HDFC,FY2024-25,women_on_board_pct,23.08,%,higher,HDFC_FY25_BRSR.pdf,526,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,women_on_board_pct,16.67,%,higher,ICICI_FY25_BRSR.pdf,3,,False
+INDUSIND,FY2024-25,women_on_board_pct,18.18,%,higher,INDUSIND_FY25_BRSR.pdf,218,,False
+KOTAK,FY2024-25,women_on_board_pct,27.27,%,higher,KOTAK_FY25_BRSR.pdf,456,,False
+YES,FY2024-25,women_on_board_pct,23.08,%,higher,YES_FY25_BRSR.pdf,298,,False
+AXIS,FY2025-26,women_on_board_pct,23.08,%,higher,AXIS_FY26_BRSR.pdf,3,,False
+HDFC,FY2025-26,women_on_board_pct,25.0,%,higher,HDFC_FY26_BRSR.pdf,558,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,women_on_board_pct,16.67,%,higher,ICICI_FY26_BRSR.pdf,3,,False
+INDUSIND,FY2025-26,women_on_board_pct,22.22,%,higher,INDUSIND_FY26_BRSR.pdf,235,,False
+KOTAK,FY2025-26,women_on_board_pct,16.67,%,higher,KOTAK_FY26_BRSR.pdf,376,,False
+YES,FY2025-26,women_on_board_pct,14.29,%,higher,YES_FY26_BRSR.pdf,189,,False
+AXIS,FY2023-24,women_share_permanent,25.0,%,higher,AXIS_FY24_BRSR.pdf,3,,False
+HDFC,FY2023-24,women_share_permanent,26.04,%,higher,HDFC_FY24_BRSR.pdf,526,HDFC prints % as whole numbers,False
+ICICI,FY2023-24,women_share_permanent,31.81,%,higher,ICICI_FY24_BRSR.pdf,2,,False
+INDUSIND,FY2023-24,women_share_permanent,19.92,%,higher,INDUSIND_FY24_BRSR.pdf,223,,False
+KOTAK,FY2023-24,women_share_permanent,26.53,%,higher,KOTAK_FY24_BRSR.pdf,387,,False
+YES,FY2023-24,women_share_permanent,21.8,%,higher,YES_FY24_BRSR.pdf,332,,False
+AXIS,FY2024-25,women_share_permanent,27.68,%,higher,AXIS_FY25_BRSR.pdf,2,,False
+HDFC,FY2024-25,women_share_permanent,26.14,%,higher,HDFC_FY25_BRSR.pdf,525,HDFC prints % as whole numbers,False
+ICICI,FY2024-25,women_share_permanent,32.04,%,higher,ICICI_FY25_BRSR.pdf,2,,False
+INDUSIND,FY2024-25,women_share_permanent,19.63,%,higher,INDUSIND_FY25_BRSR.pdf,218,,False
+KOTAK,FY2024-25,women_share_permanent,27.31,%,higher,KOTAK_FY25_BRSR.pdf,455,,False
+YES,FY2024-25,women_share_permanent,23.17,%,higher,YES_FY25_BRSR.pdf,297,,False
+AXIS,FY2025-26,women_share_permanent,30.1,%,higher,AXIS_FY26_BRSR.pdf,2,,False
+HDFC,FY2025-26,women_share_permanent,26.61,%,higher,HDFC_FY26_BRSR.pdf,558,HDFC prints % as whole numbers,False
+ICICI,FY2025-26,women_share_permanent,32.08,%,higher,ICICI_FY26_BRSR.pdf,2,,False
+INDUSIND,FY2025-26,women_share_permanent,19.91,%,higher,INDUSIND_FY26_BRSR.pdf,235,,False
+KOTAK,FY2025-26,women_share_permanent,27.35,%,higher,KOTAK_FY26_BRSR.pdf,375,,False
+YES,FY2025-26,women_share_permanent,24.43,%,higher,YES_FY26_BRSR.pdf,188,,False

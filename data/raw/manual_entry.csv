@@ -1,0 +1,50 @@
+bank,fiscal_year,metric,gender,value,unit,source_file,page,raw,method,note
+AXIS,FY2023-24,wellbeing_health_insurance,total,,%,AXIS_FY24_BRSR.pdf,16,-,manual,Total row % printed as '-'; count shown 104332 of 104332
+AXIS,FY2023-24,wellbeing_accident_insurance,total,,%,AXIS_FY24_BRSR.pdf,16,The Bank does not provide Accidental Insurance,manual,stated as not provided
+AXIS,FY2023-24,wellbeing_maternity,total,,%,AXIS_FY24_BRSR.pdf,16,-,manual,Total row % printed as '-'; count 26087
+AXIS,FY2023-24,wellbeing_paternity,total,,%,AXIS_FY24_BRSR.pdf,16,-,manual,Total row % printed as '-'; count 78238
+AXIS,FY2023-24,wellbeing_day_care,total,,%,AXIS_FY24_BRSR.pdf,16,*,manual,footnote: day care inside Mumbai corporate office; all employees eligible
+AXIS,FY2023-24,training_base,male,,count,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,Total (A) column left blank
+AXIS,FY2023-24,training_base,female,,count,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,Total (A) column left blank
+AXIS,FY2023-24,training_base,total,,count,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,Total (A) column left blank
+AXIS,FY2023-24,training_health_safety_pct,male,100,%,AXIS_FY24_BRSR.pdf,18,100%,manual,No. (B) 78238
+AXIS,FY2023-24,training_health_safety_pct,female,100,%,AXIS_FY24_BRSR.pdf,18,100%,manual,No. (B) 26087
+AXIS,FY2023-24,training_health_safety_pct,total,100,%,AXIS_FY24_BRSR.pdf,18,100%,manual,No. (B) 104332
+AXIS,FY2023-24,training_skill_upgradation_pct,male,,%,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,skill upgradation columns left blank
+AXIS,FY2023-24,training_skill_upgradation_pct,female,,%,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,skill upgradation columns left blank
+AXIS,FY2023-24,training_skill_upgradation_pct,total,,%,AXIS_FY24_BRSR.pdf,18,not disclosed,manual,skill upgradation columns left blank
+AXIS,FY2023-24,review_base,female,26094,count,AXIS_FY24_BRSR.pdf,19,"26,094",manual,row label 'Female and Others' (includes 7 Others)
+AXIS,FY2023-24,review_pct,female,69,%,AXIS_FY24_BRSR.pdf,19,69%,manual,row label 'Female and Others' (includes 7 Others)
+HDFC,FY2023-24,female_wages_pct_of_total,total,19,%,HDFC_FY24_BRSR.pdf,552,19%,manual,worded 'Gross remuneration paid to females as % of remuneration paid'
+KOTAK,FY2025-26,complaints_sexual_harassment_filed,total,48,count,KOTAK_FY26_BRSR.pdf,404,48,manual,numbers printed on a separate line from the label
+KOTAK,FY2025-26,complaints_sexual_harassment_pending,total,11,count,KOTAK_FY26_BRSR.pdf,404,11,manual,remark: all pending cases resolved in FY 2025-26
+YES,FY2024-25,training_base,female,6647,count,YES_FY25_BRSR.pdf,316,"6,647",manual,
+YES,FY2023-24,training_base,female,6103,count,YES_FY25_BRSR.pdf,316,"6,103",manual,
+YES,FY2024-25,training_health_safety_pct,female,13.42,%,YES_FY25_BRSR.pdf,316,13.42%,manual,
+YES,FY2023-24,training_health_safety_pct,female,,%,YES_FY25_BRSR.pdf,316,Nil,manual,printed 'Nil'
+YES,FY2024-25,training_skill_upgradation_pct,female,98.13,%,YES_FY25_BRSR.pdf,316,98..13%,manual,printed with a double dot (typo in report)
+YES,FY2023-24,training_skill_upgradation_pct,female,99.03,%,YES_FY25_BRSR.pdf,316,99.03%,manual,
+YES,FY2025-26,training_base,female,7227,count,YES_FY26_BRSR.pdf,198,"7,227",manual,permanent employees only
+YES,FY2025-26,training_base,total,29577,count,YES_FY26_BRSR.pdf,198,"29,577",manual,permanent employees only
+YES,FY2024-25,training_base,female,6647,count,YES_FY26_BRSR.pdf,198,"6,647",manual,permanent employees only
+YES,FY2024-25,training_base,total,28690,count,YES_FY26_BRSR.pdf,198,"28,690",manual,permanent employees only
+YES,FY2025-26,training_health_safety_pct,female,71.08,%,YES_FY26_BRSR.pdf,198,71.08%,manual,
+YES,FY2025-26,training_health_safety_pct,total,69.72,%,YES_FY26_BRSR.pdf,198,69.72%,manual,
+YES,FY2024-25,training_health_safety_pct,female,13.42,%,YES_FY26_BRSR.pdf,198,13.42%,manual,
+YES,FY2024-25,training_health_safety_pct,total,10.50,%,YES_FY26_BRSR.pdf,198,10.50%,manual,
+YES,FY2025-26,training_skill_upgradation_pct,female,97.81,%,YES_FY26_BRSR.pdf,198,97.81%,manual,
+YES,FY2025-26,training_skill_upgradation_pct,total,98.40,%,YES_FY26_BRSR.pdf,198,98.40%,manual,
+YES,FY2024-25,training_skill_upgradation_pct,female,98.13,%,YES_FY26_BRSR.pdf,198,98.13%,manual,
+YES,FY2024-25,training_skill_upgradation_pct,total,98.91,%,YES_FY26_BRSR.pdf,198,98.91%,manual,
+YES,FY2025-26,review_base,male,22350,count,YES_FY26_BRSR.pdf,198,"22,350",manual,
+YES,FY2025-26,review_base,female,7227,count,YES_FY26_BRSR.pdf,198,"7,227",manual,
+YES,FY2025-26,review_base,total,29577,count,YES_FY26_BRSR.pdf,198,"29,577",manual,
+YES,FY2024-25,review_base,male,22043,count,YES_FY26_BRSR.pdf,198,"22,043",manual,restated: method amended in FY 2025-26 (now includes KMPs; base = all permanent employees)
+YES,FY2024-25,review_base,female,6647,count,YES_FY26_BRSR.pdf,198,"6,647",manual,restated (see male row)
+YES,FY2024-25,review_base,total,28690,count,YES_FY26_BRSR.pdf,198,"28,690",manual,restated (see male row)
+YES,FY2025-26,review_pct,male,82.61,%,YES_FY26_BRSR.pdf,198,82.61%,manual,
+YES,FY2025-26,review_pct,female,79.92,%,YES_FY26_BRSR.pdf,198,79.92%,manual,
+YES,FY2025-26,review_pct,total,81.96,%,YES_FY26_BRSR.pdf,198,81.96%,manual,
+YES,FY2024-25,review_pct,male,85.20,%,YES_FY26_BRSR.pdf,198,85.20%,manual,restated (see review_base)
+YES,FY2024-25,review_pct,female,81.41,%,YES_FY26_BRSR.pdf,198,81.41%,manual,restated (see review_base)
+YES,FY2024-25,review_pct,total,84.32,%,YES_FY26_BRSR.pdf,198,84.32%,manual,restated (see review_base)
